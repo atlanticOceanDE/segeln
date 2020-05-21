@@ -16,7 +16,7 @@ Skipper Michael Hoberg
 ### Wetterbericht
 | Zeit   | Wind kn.    | Seegang   | Wetter   |
 | ------ |:-----------:|:---------:| --------:|  
-| 02:00  |  |  | :sunny: |
+| 02:00  |  |  | ![rain icon](../images/icons8-rain-32.png) |
 | 05:00  |  |  |  |
 | 08:00  |  |  |  |
 | 11:00  |  |  |  |
@@ -29,7 +29,7 @@ Skipper Michael Hoberg
 ### Wetterbeobachtung
 | Zeit   | Wind Bft.   | Seegang   | Strömung nm   | Bedeckung   | Luftdruck   |   
 | ------ |:-----------:|:---------:|:-------------:|:-----------:| -----------:|   
-| 00:00  |  |  |  | ![GitHub logo](../images/GitHub-Mark-32px.png) |  |
+| 00:00  |  |  |  |  |  |
 | 02:00  |  |  |  |  |  |
 | 04:00  |  |  |  |  |  |
 | 06:00  |  |  |  |  |  |
@@ -58,3 +58,12 @@ Skipper Michael Hoberg
 |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |
+
+
+##### Icons
+:sunny:  
+:partly_sunny:  
+:cloud:  
+![rain icon](../images/icons8-rain-32.png)
+
+<a target="_blank" href="https://icons8.com/icons/set/rain">Rain icon</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a> 
