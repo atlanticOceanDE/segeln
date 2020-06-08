@@ -1,22 +1,26 @@
-[![GitHub logo](../images/GitHub-Mark-32px.png) GitHub](../README.md) [:house: Home](https://github.com/atlanticOceanDE/segeln) / [Logbuch](../Logbuch)
 
+[![GitHub logo](../images/GitHub-Mark-32px.png) GitHub](../README.md) [:house: Home](https://github.com/atlanticOceanDE/segeln) / [Logbuch](../Logbuch)
 
 # xx.xx.xxxx
 
-## Yacht 
+## Yacht
+
 Seascape 18 - Fish
 
 ## Crewliste
+
 Skipper Michael Hoberg  
 
 ### Etappe
+
 **Start:** xy  
 **Ziel:** xy
 
 ### Wetterbericht
+
 | Zeit   | Wind kn.    | Seegang   | Wetter   |
 | ------ |:-----------:|:---------:| --------:|  
-| 02:00  |  |  | ![rain icon](../images/icons8-rain-32.png) |
+| 02:00  |  |  |  |
 | 05:00  |  |  |  |
 | 08:00  |  |  |  |
 | 11:00  |  |  |  |
@@ -25,10 +29,10 @@ Skipper Michael Hoberg
 | 20:00  |  |  |  |
 | 23:00  |  |  |  |
 
-
 ### Wetterbeobachtung
-| Zeit   | Wind Bft.   | Seegang   | Strömung nm   | Bedeckung   | Luftdruck   |   
-| ------ |:-----------:|:---------:|:-------------:|:-----------:| -----------:|   
+
+| Zeit   | Wind Bft.   | Seegang   | Strömung nm   | Bedeckung   | Luftdruck   |
+| ------ |:-----------:|:---------:|:-------------:|:-----------:| -----------:|
 | 00:00  |  |  |  |  |  |
 | 02:00  |  |  |  |  |  |
 | 04:00  |  |  |  |  |  |
@@ -42,10 +46,10 @@ Skipper Michael Hoberg
 | 20:00  |  |  |  |  |  |
 | 22:00  |  |  |  |  |  |
 
-
 ### Logbuch
-| Zeit   | MgK   | KüG   | Log   | S/M sm   | KzW   | M-upm   | Ereignisse   |   
-| ------ |:-----:|:-----:|:-----:|:--------:|:-----:|:-------:| ------------:|   
+
+| Zeit   | MgK   | KüG   | Log   | S/M sm   | KzW   | M-upm   | Ereignisse   |
+| ------ |:-----:|:-----:|:-----:|:--------:|:-----:|:-------:| ------------:|
 |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |
@@ -59,11 +63,11 @@ Skipper Michael Hoberg
 |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |
 
+#### Icons
 
-##### Icons
 :sunny:  
 :partly_sunny:  
 :cloud:  
 ![rain icon](../images/icons8-rain-32.png)
 
-<a target="_blank" href="https://icons8.com/icons/set/rain">Rain icon</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a> 
+<a target="_blank" href="https://icons8.com/icons/set/rain">Rain icon</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
